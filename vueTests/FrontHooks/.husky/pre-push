@@ -2,4 +2,3 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 echo -e " \033[0;32m Verde  \033[0m             --> 0;32 "
-echo -e " \033[5;30m Piscando    \033[0m        --> 5;? "

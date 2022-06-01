@@ -3,4 +3,4 @@
 
 cd vueTests
 
-npm run lint
+echo -e " \033[0;32m Padronização de commit  \033[0m"
