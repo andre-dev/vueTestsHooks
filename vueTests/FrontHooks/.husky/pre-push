@@ -1,4 +1,6 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-echo -e " \033[0;32m Verde  \033[0m             --> 0;32 "
+cd vueTests
+
+npm run lint
